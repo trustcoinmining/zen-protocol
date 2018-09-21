@@ -2,6 +2,7 @@
 Pre-release of miner and bitstreams for VCU1525
 
 keccak-zp up to 12 GH/s
+
 No developer fee embedded.
 
 Binary release
