@@ -22,6 +22,9 @@ https://github.com/digitalcruncher/zen-protocol/releases/download/3/ccminer-zen-
 Usage
 
 Set number of cores from 1 to 21 in cores.txt file.
+
 Request the license activation code by writing email DigitalCruncher@protonmail.com and put the code into license.txt.
+
 Run sudo ./activator.sh
+
 Run sudo ./zenprotocol.sh
