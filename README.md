@@ -5,7 +5,7 @@ keccak-zp up to 12 GH/s
 
 No developer fee embedded.
 
-Binary release is avalable upon request
+Binary release is available upon request
 
 
 Source code of ccminer-zp fork
