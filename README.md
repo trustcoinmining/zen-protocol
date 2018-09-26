@@ -19,6 +19,8 @@ Set number of cores from 1 to 21 in cores.txt file.
 
 Request the license activation code put the code into license.txt.
 
+Run lspci and fill in pci bus address in devices.txt and and ./zenprotocol.sh
+
 Run sudo ./activator.sh
 
 Run sudo ./zenprotocol.sh
